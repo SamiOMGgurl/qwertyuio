@@ -1,0 +1,22 @@
+body
+{
+background: url("letschatweeb.png");
+background-size: contain;
+
+}
+
+h2
+{
+    color : rgb(0, 0, 0);
+    
+    font-size: x-large;
+}
+#divs
+{
+   color:rgb(0, 0, 0) ;
+}
+
+h1{
+    color :rgba(0, 0, 0, 0.456)
+}
+

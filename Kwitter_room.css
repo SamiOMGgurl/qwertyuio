@@ -1,0 +1,23 @@
+body
+{
+    /*
+    background : url("letschatweeb.png");
+    background-size: cover;
+    */
+    background : linear-gradient( #c1e4fc, #cce8f4, #c5e2ff, #b1daf0);
+}
+
+#logout
+{
+background-color: rgb(34, 137, 197);
+font-size: large; 
+color: rgb(0, 0, 0);
+
+}
+
+#add_room_button
+{
+    background-color: rgb(34, 137, 197);
+    font-size: large; 
+    color: rgb(0, 0, 0);
+}
